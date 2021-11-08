@@ -1,6 +1,6 @@
-## Minhua Bao/
+## Minhua Bao
 
-Technologist & Digital Assets SME | [minhua.bao@pwc.com](mailto:minhua.bao@pwc.com) | PwC US - Labs 
+Technologist & Digital Assets SME | PwC US - Labs | [minhua.bao@pwc.com](mailto:minhua.bao@pwc.com) 
 ### About
 Mr. Bao works as an independent consultant for PwC US Lab STH Group, where he is responsible for mutiple blockchain and digital asset strategy and execution, he has a master degree in software engineering and bachelor degree for computer science.  
 He has over 16 years experience in software engineering, product management and technology consulting, which cross traditional enterprise technologies to emerging technologies services. He led the effort to design different development strategies to help multiple competency teams to grow which includes BPM CoE, Data Analytics and software products engineering team and Digital Assets.
