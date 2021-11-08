@@ -7,7 +7,7 @@ He has over 16 years experience in software engineering, product management and 
 
 ### Experience Summary  
 
-** Consultant@PwC Labs 2.0 - PwC AC Shanghai**
+**Consultant at PwC Labs 2.0 - PwC AC Shanghai**
 
 2020 - Now
 
