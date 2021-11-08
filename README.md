@@ -1,4 +1,4 @@
-**Minhua Bao**
+## Minhua Bao
 
 Technologist & Digital Assets SME | [minhua.bao@pwc.com](mailto:minhua.bao@pwc.com)
 ### About
