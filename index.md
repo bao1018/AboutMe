@@ -7,7 +7,7 @@ He has over 16 years experience in software engineering, product management and 
 
 ### Experience Summary  
 
-**Independent Consultant - PwC Accelerator Center Shanghai**
+**Independent Consultant on PwC Lab - PwC AC Shanghai**
 
 2020 - Now
 
