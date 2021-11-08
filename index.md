@@ -2,7 +2,7 @@
 
 Technologist & Digital Assets SME | [minhua.bao@pwc.com](mailto:minhua.bao@pwc.com)
 ### About
-Mr. Bao works as an independent consultant for PwC AC Shanghai, where he is responsible for blockchain and digital asset strategy and execution, he has a master degree in software engineering and bachelor degree for computer science.  
+Mr. Bao works as an independent consultant for PwC AC Shanghai, where he is responsible for helping PwC US on mutiple blockchain and digital asset strategy and execution, he has a master degree in software engineering and bachelor degree for computer science.  
 He has over 16 years experience in software engineering, product management and technology consulting, which cross traditional enterprise technologies to emerging technologies services. He led the effort to design different development strategies to help multiple competency teams to grow which includes BPM CoE, Data Analytics and software products engineering team and Digital Assets.
 
 ### PwC Experience Summary  
@@ -10,6 +10,7 @@ He has over 16 years experience in software engineering, product management and 
 **Independent Consultant - PwC Accelerator Center Shanghai**
 
 2020 - Now
+
 Work for PwC US’s Lab to be in charge of product portfolio includes: blockchain, digital currency, crypto assets and related products including Defi, Stablecoins, Cryptocurrency, security token, CBDC/m-CBDC, asset tokenization, crypto custody and crypto trading.
 <hr>
 
