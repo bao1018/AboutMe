@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Minhua Bao
 
-You can use the [editor on GitHub](https://github.com/bao1018/AboutMe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Technologist & Digital Assets SME | [minhua.bao@pwc.com](mailto:minhua.bao@pwc.com)
+### About
+Mr. Bao works as an independent consultant for PwC AC Shanghai, where he is responsible for blockchain and digital asset strategy and execution, he has a master degree in software engineering and bachelor degree for computer science.  
+He has over 16 years experience in software engineering, product management and technology consulting, which cross traditional enterprise technologies to emerging technologies services. He led the effort to design different development strategies to help multiple competency teams to grow which includes BPM CoE, Data Analytics and software products engineering team and Digital Assets.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### PwC Experience Summary  
 
-### Markdown
+**Independent Consultant - PwC Accelerator Center Shanghai**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2020 - Now
+Work for PwC US’s Lab to be in charge of product portfolio includes: blockchain, digital currency, crypto assets and related products including Defi, Stablecoins, Cryptocurrency, security token, CBDC/m-CBDC, asset tokenization, crypto custody and crypto trading.
+<hr>
 
-```markdown
-Syntax highlighted code block
+**Head of Product Engineering & Director - PwC’s New Ventures**
 
-# Header 1
-## Header 2
-### Header 3
+2016 - 2020
 
-- Bulleted
-- List
+Leading the effort to manage the PwC Product & Tech’s R&D team to support the US market focus on utilizing the cutting edge technologies and cloud native  stacks(Azure/Google Cloud, k8s, golang, etc) to help the client to solve real business problems. This group focuses on identifying and commercializing innovative, non-traditional offerings to generate significant new revenue for the firm.
+<hr>
 
-1. Numbered
-2. List
+**Software Architect - PwC’s Emerging Technology Lab**
 
-**Bold** and _Italic_ and `Code` text
+2011 - 2016
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bao1018/AboutMe/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Lead a an internal innovation lab (The PwC Emerging Tech Lab) focused on exploring the cutting edge technologies, agile development techniques, and leading edge technology trends providing participants with hands-on experience developing working prototypes for internal and external business development opportunities, Recent & Relevant Technologies & Domains: Blockchain, AI(speech to text, NLP, computer vision), IoT, DevOps, Gamification, Microservices,
+<hr>
